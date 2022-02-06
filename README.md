@@ -1,6 +1,6 @@
 - 👋 Hi, I’m vikram
 - 👀 I’m interested in ...python
-- 🌱 I’m currently learning ...programmin
+- 🌱 I’m currently learning ...programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
