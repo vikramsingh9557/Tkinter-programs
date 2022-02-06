@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vikramsingh9557
+- 👋 Hi, I’m vikram
 - 👀 I’m interested in ...python
 - 🌱 I’m currently learning ...programmin
 - 💞️ I’m looking to collaborate on ...
